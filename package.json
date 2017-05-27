@@ -2,14 +2,14 @@
   "name": "ex.ua",
   "date": "2016.01.29",
   "version": "2.1.19",
-  "description": "STB based application for IPTV-devices. All content from site ex.ua.",
+  "description": "piCahgh5",
   "author": {
     "name": "BAS",
     "email": "1990bas@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/StalkerApps/exua.git"
+    "url": "https://github.com/vdithrnt/piCahgh5.git"
   },
   "dependencies": {},
   "config": {
